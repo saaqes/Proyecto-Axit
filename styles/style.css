@@ -568,11 +568,11 @@ section .cajas1{
     align-items: center;
     text-align: center;
     font-family: arial;
-    background-image: url(/assets/images/bg2.png);
+    background-image: url(../assets/images/bg2.png);
     background-image: linear-gradient(
         rgba(0,0,0,0.6),
         rgba(0,0,0,0.6)
-    ),url(/assets/images/bg2.png);
+    ),url(../assets/images/bg2.png);
     background-size: cover;
     background-position: 50%;
 }
